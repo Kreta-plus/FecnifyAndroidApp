@@ -1,0 +1,25 @@
+{
+  "versionCode": 13,
+  "versionName": "3.0",
+  "date": "2026-11-16",
+  "minSdk": 26,
+  "apk": "Fecnify-3.0.apk",
+  "size": 9803600,
+  "sha256": "a11f689e3a48b929083c7c5b65e5e51d2535589342a3b8adf3613fdc25be9dec",
+  "signer": "e47c0640f962a93392486cba85185710c44f48ddde9ee16834b8af36a2708a31",
+  "notes": [
+    "Új: a ZsírKréta új neve Fecnify, új logóval",
+    "A belépésed és a beállításaid átkerültek a régi appból, minden ugyanúgy működik"
+  ],
+  "versions": [
+    {
+      "versionCode": 13,
+      "versionName": "3.0",
+      "date": "2026-11-16",
+      "notes": [
+        "Új: a ZsírKréta új neve Fecnify, új logóval",
+        "A belépésed és a beállításaid átkerültek a régi appból, minden ugyanúgy működik"
+      ]
+    }
+  ]
+}
